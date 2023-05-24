@@ -1,0 +1,21 @@
+(2023/05/24)
+**Multitanency in cloud computing
+
+-It is a type of software architecture where a single software instance can serve multiple distinct user groups.
+-It means that multiple customers of cloud venders are using the same computing resources.
+-As they are shaling the same computing resources but the data of each cloud customers is kept seperate and secure. It is very important concept of cloud computing.
+-Multitanency is also a shared host where the same resources are divided among different customers in cloud computing.
+
+Santosh7772@gmail.com
+
+for example
+-The example of multitannency is the same as working of bank multiple people can store money in the same bank. But every customers assest is different. One customer cant access theotehr customers money and account and different customers are not aware of each others account balance and details.
+
+****Advantages of Multitanency
+-Maximized by shaling resources(available)
+-Customers cost of physical hardware systems is reduced and it reduces the usage of physical devices and thus power consumption and cooling cost savings.
+-Save vender's cost as it becomes different for a cloud vender to provide seperate physical servicwes to each individual
+
+*****Disadvantages
+-Data is stored in third-party service, which reduces our data security and puts it into vulnerableconditions
+-Unauthorized access will loose damage to data
